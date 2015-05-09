@@ -26,7 +26,7 @@
     "gps-demo-app": "^1.0.0",
     "ios-test-app": "https://github.com/sebv/ios-test-app/archive/master.tar.gz",
     "ios-uicatalog": "https://github.com/sebv/ios-uicatalog/archive/master.tar.gz",
-    "ios-webview-app": "https://github.com/appium/ios-webview-app/archive/master.tar.gz",
+    "ios-webview-app": "https://github.com/sebv/ios-webview-app/archive/master.tar.gz",
     "toggle-test-app": "^1.0.0",
     "io.appium.gappium.sampleapp": "^1.1.1"
   },
